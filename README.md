@@ -8,8 +8,8 @@
 
 Средние скорости для 10х прогонов:
 - Java: ~30ms
-- С#: ~79ms
 - D: ~69ms
 - PyPy: ~72ms
-- CPython: ~484ms
+- С#: ~79ms
 - Nuitka: ~339ms
+- CPython: ~484ms
